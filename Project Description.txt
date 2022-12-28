@@ -1,0 +1,10 @@
+Goals:
+Mapping UMP 2023 National
+
+Data Source:
+https://www.kompas.com/tren/read/2022/11/30/083000165/daftar-lengkap-ump-2023-di-34-provinsi-seluruh-indonesia?page=all
+
+Technical:
+1. Web Scraping (Python)
+2. Data Cleaning (Python)
+3. Visualization (Tableau)
